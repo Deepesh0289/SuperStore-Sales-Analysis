@@ -41,12 +41,11 @@ The procedure of creating report consist of several steps like Data Cleaning, Da
 
 And minimum sale of 2019 is near about 100k in mid April and in 2020 is very much less than 50k in the month of February.
 
-5. Ship Mode: 1000k of the customer consider the standar
 ## Conclusion
 ## 🚀 About Me
 - 👋 Hi, I’m @Deepesh0289
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analyst
+- 🌱 I’m currently learning Data Analytics
 - 📫 Approach me at deepesh.saini011@gmial.com
 
 
@@ -54,9 +53,10 @@ And minimum sale of 2019 is near about 100k in mid April and in 2020 is very muc
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-saini-0289/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deepesh0289?t=7R0Krl-H0wt7p7anZH1R1Q&s=08)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+PowerBi, Excel, SQL, Analytical Thinking, Report generation, DAX Query
+
 
