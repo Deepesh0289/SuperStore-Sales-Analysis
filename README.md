@@ -1,20 +1,6 @@
-# SuperStore-Sales-Analysis
-Analyzing and Report generation along with 15 Days sales forecasting.
-
-Graphs and Charts Made:
-1.Sales by Payment Mode
-2.Sales by Segment
-3.Sales by Region
-4.Sales by Month
-5.Profit by Month
-6.Sales by Ship Mode
-7.Sales by Category
-8.Sales by Sub-Category
-9.Sales forecasting of upcoming 15 Days
-
-
 
 # Super Store Sales Analysis
+Analyzing and Report generation along with 15 Days sales forecasting.
 
 Problem: Lala ji had multiple stores in several states of America, He wanted to increase their sales, and ask theri manageres to give them advise. Managers advised him to hire a Data Analyst, which can solve this problem, so they hire me and tell Deepesh I'll giving you the resposibility to generate a detailed report on the basis of two years of data 2019 and 2020.
  
