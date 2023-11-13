@@ -45,7 +45,10 @@ The procedure of creating report consist of several steps like Data Cleaning, Da
 And minimum sale of 2019 is near about 100k in mid April and in 2020 is very much less than 50k in the month of February.
 
 ## Screenshot
-ps://github.com/Deepesh0289/SuperStore-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analysis%20Report%20Generation/Sales%20Analysis%20Report_pages-to-jpg-0002.jpg)
+
+
+![Sales Analysis Report_pages-to-jpg-0008](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/assets/76846273/7985b3a3-e9f6-4883-a9bd-31aa032443f8)
+
 
 ## Conclusion
 ## 🚀 About Me
