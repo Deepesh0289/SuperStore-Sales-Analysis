@@ -28,7 +28,7 @@ The procedure of creating report consist of several steps like Data Cleaning, Da
 1. Data Collection: I have used the Super Store data by Kaggle which consist of twoo years of data sepcifically 2019 and 2020.
 
 2. Data Import: Now in this step I imported the data into PowerBi for further cleaning and preprocessing.
-
+ 
 3. Data Cleaning: This step include removing outliers, removing or replacing errors, data type detection and removing inappropiate columns.
 
 4. Data Preprocessing: In this step we makes data reday to visualize, managing categorical and numerical data.
