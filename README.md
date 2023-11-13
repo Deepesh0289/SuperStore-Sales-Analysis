@@ -63,4 +63,8 @@ And minimum sale of 2019 is near about 100k in mid April and in 2020 is very muc
 PowerBi, Excel, SQL, Analytical Thinking, Report generation, DAX Query
 
 ![Dashboard](https://drive.google.com/file/d/1DTaIOO3NRg4052GS4HGt070MIGA4XRLe/view?usp=drive_link)
+![Dashboard](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analysis%20Report%20Generation/Sales%20Analysis%20Report_pages-to-jpg-0001.jpg)
+
+![Chart 1](htt![Sales Analysis Report_pages-to-jpg-0001](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/assets/76846273/a84efc0b-a680-4e92-a504-c29e6867f65e)
+ps://github.com/Deepesh0289/SuperStore-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analysis%20Report%20Generation/Sales%20Analysis%20Report_pages-to-jpg-0002.jpg)
 
