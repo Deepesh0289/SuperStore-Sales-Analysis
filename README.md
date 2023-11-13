@@ -15,6 +15,9 @@ Problem: Lala ji had multiple stores in several states of America, He wanted to 
 
  4. Actionable Insights and Recommendation: End goal is to share valuable insights and actionable information that can derive strategis desicion making and support the supermarket's goals for growth, efficiency, adn customer satisfaction.
 
+![Dashboard](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analysis%20Report%20Generation/Sales%20Analysis%20Report_pages-to-jpg-0001.jpg)
+
+![Chart 1](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/blob/main/Super%20Store%20Sales%20Analysis%20Report%20Generation/Sales%20Analysis%20Report_pages-to-jpg-0002.jpg)
 
 
 
