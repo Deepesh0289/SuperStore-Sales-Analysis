@@ -62,4 +62,5 @@ And minimum sale of 2019 is near about 100k in mid April and in 2020 is very muc
 ## 🛠 Skills
 PowerBi, Excel, SQL, Analytical Thinking, Report generation, DAX Query
 
+![Dashboard](https://drive.google.com/file/d/1DTaIOO3NRg4052GS4HGt070MIGA4XRLe/view?usp=drive_link)
 
