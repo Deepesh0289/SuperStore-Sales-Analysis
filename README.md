@@ -40,9 +40,7 @@ The procedure of creating report consist of several steps like Data Cleaning, Da
 
 3. Region: Region wise maximum sales are done in West region which is 33% and in East is 29%, in Central is 22% and South region is 16%.
 
-4. Sales by Month and Year: In year 2019 the highest sales is done in the month of december which is more than 150k but the 2020 is near about 50k due to covid.
-
-And minimum sale of 2019 is near about 100k in mid April and in 2020 is very much less than 50k in the month of February.
+4. Sales by Month and Year: In year 2019 the highest sales is done in the month of december which is more than 150k but the 2020 is near about 50k due and minimum sale of 2019 is near about 100k in mid April and in 2020 is very much less than 50k in the month of February.
 
 ## Screenshot
 ![Dashboard](https://github.com/Deepesh0289/SuperStore-Sales-Analysis/assets/76846273/247ca3b9-6dc6-4fd2-8661-f91be5c023ca)
