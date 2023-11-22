@@ -61,7 +61,7 @@ And minimum sale of 2019 is near about 100k in mid April and in 2020 is very muc
 - 👋 Hi, I’m @Deepesh0289
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
-- 📫 Approach me at deepesh.saini011@gmial.com
+- 📫 Approach me at deepesh.saini011@gmail.com
 
 
 
